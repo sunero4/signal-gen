@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalGen", "SignalGen\SignalGen.csproj", "{11D0C409-0994-4F15-B79D-80F92A92D353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalGen.App", "SignalGen.App\SignalGen.App.csproj", "{FC56C63A-B034-44BE-9450-EE6781E2BE7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D0C409-0994-4F15-B79D-80F92A92D353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D0C409-0994-4F15-B79D-80F92A92D353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D0C409-0994-4F15-B79D-80F92A92D353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D0C409-0994-4F15-B79D-80F92A92D353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC56C63A-B034-44BE-9450-EE6781E2BE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC56C63A-B034-44BE-9450-EE6781E2BE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC56C63A-B034-44BE-9450-EE6781E2BE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC56C63A-B034-44BE-9450-EE6781E2BE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B930C0B-9AD4-4D1B-AD18-1F188D3B136D}
+	EndGlobalSection
+EndGlobal

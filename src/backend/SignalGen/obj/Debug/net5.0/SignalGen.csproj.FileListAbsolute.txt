@@ -1,0 +1,12 @@
+D:\repos\SignalGen\SignalGen\bin\Debug\net5.0\SignalGen.deps.json
+D:\repos\SignalGen\SignalGen\bin\Debug\net5.0\SignalGen.dll
+D:\repos\SignalGen\SignalGen\bin\Debug\net5.0\ref\SignalGen.dll
+D:\repos\SignalGen\SignalGen\bin\Debug\net5.0\SignalGen.pdb
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.csprojAssemblyReference.cache
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.AssemblyInfoInputs.cache
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.AssemblyInfo.cs
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.csproj.CoreCompileInputs.cache
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.dll
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\ref\SignalGen.dll
+D:\repos\SignalGen\SignalGen\obj\Debug\net5.0\SignalGen.pdb
