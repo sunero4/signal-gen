@@ -7,7 +7,7 @@ Still a very early version. Planned features include:
 1. Add command line arguments for specifying where to save the generated clients.
 2. Automatic route discovery. Right now routes for the hub methods have to be added manually.
 3. UI for testing out hub methods, much like the UI made available by SwashBuckle for testing out controller methods.
-4. Support for other languages than Typescript. Regular Javascript would be an easy next possibility.
+4. Support for other languages than Typescript.
 
 More features might come up along the way.
 
